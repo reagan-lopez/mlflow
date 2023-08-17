@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reaganlo/workspace/mlflow/mlruns/0/6f8a5d184f734a938efc2b8df9784726/artifacts
+end_time: 1692249993115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f8a5d184f734a938efc2b8df9784726
+run_name: ambitious-eel-626
+run_uuid: 6f8a5d184f734a938efc2b8df9784726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692249991622
+status: 3
+tags: []
+user_id: reaganlo

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reaganlo/workspace/mlflow/mlruns/0/941f3477158e4b7aaf2543a552449ecb/artifacts
+deleted_time: 1692237799949
+end_time: 1692236124198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 941f3477158e4b7aaf2543a552449ecb
+run_name: colorful-gull-51
+run_uuid: 941f3477158e4b7aaf2543a552449ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692236122635
+status: 3
+tags: []
+user_id: reaganlo

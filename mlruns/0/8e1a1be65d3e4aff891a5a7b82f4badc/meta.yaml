@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reaganlo/workspace/mlflow/mlruns/0/8e1a1be65d3e4aff891a5a7b82f4badc/artifacts
+end_time: 1692250036682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e1a1be65d3e4aff891a5a7b82f4badc
+run_name: kindly-moose-966
+run_uuid: 8e1a1be65d3e4aff891a5a7b82f4badc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692250035210
+status: 3
+tags: []
+user_id: reaganlo

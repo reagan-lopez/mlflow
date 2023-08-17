@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reaganlo/workspace/mlflow/mlruns/0/02e7d11a94ab4608aaad235b0ac520e3/artifacts
+end_time: 1692249980796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02e7d11a94ab4608aaad235b0ac520e3
+run_name: magnificent-mule-683
+run_uuid: 02e7d11a94ab4608aaad235b0ac520e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692249979281
+status: 3
+tags: []
+user_id: reaganlo
